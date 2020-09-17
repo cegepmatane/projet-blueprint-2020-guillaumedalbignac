@@ -17,18 +17,7 @@ Voiture :
 	Licence - Licence d'utilisation personnelle
 	Titre -	Humvee Vehicle 
 	Auteur - rossenrode
-	
-Texture neige :
-	URL - https://freepbr.com/materials/snow-packed-12/
-	Licence - Libre
-	Titre - Snow Packed 12 PBR Material
-	Auteur - FreePBR.com
-	
-Chene :
-	URL - https://free3d.com/fr/3d-model/-oak-tree-v1--463277.html
-	Licence - Licence d'utilisation personnelle
-	Titre -     Oak Tree V1 
-	Auteur - printable_models
+
 
 # projet-blueprint-2020-guillaumedalbignac
 projet-blueprint-2020-guillaumedalbignac created by GitHub Classroom
